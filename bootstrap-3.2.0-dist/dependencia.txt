@@ -1,0 +1,2 @@
+te preguntaras "porque este archivo esta aca si ya existe una instalacion de bootstrap local"
+no lo se pero no lo toques porque probablemente se rompe
