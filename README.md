@@ -14,8 +14,12 @@ La instalación es local, por lo que requerirá la descarga de el programa [XAMP
 
 * Iniciá Apache y MySQL en tu instalación de XAMPP.
 
-* Dirigite a [PHPMyAdmin](localhost/phpmyadmin) y creá una base de datos con el nombre USERS. Cuando esté listo, presioná el botón de Importar, y ingresá el archivo _users.sql_ encontrado en el comprimido.
+* Dirigite a PHPMyAdmin _(localhost/phpmyadmin)_ y creá una base de datos con el nombre USERS. Cuando esté listo, presioná el botón de Importar, y ingresá el archivo _users.sql_ encontrado en el comprimido.
 
 * Colocá la carpeta _Compras_ en el directorio C:/XAMPP/htdocs. (Debe quedar C:/XAMPP/htdocs/Compras)
 
 * Ingresa _localhost/Compras/welcome.php_ en tu navegador de elección.
+
+#### Licencia
+
+_Este trabajo es licenciado mediante la licencia GNU 3.0, permitiendo su uso comercial, modificaciones, distribución, uso de patente y uso personal, sin garantía o liabilidad, y con las condiciones de la creación de un aviso de licencia y copyright detallando los cambios realizados, mostrar la fuente (este repositorio) y usar la misma licencia para tu proyecto._ [Aprende más.](https://es.wikipedia.org/wiki/GNU_General_Public_License)
