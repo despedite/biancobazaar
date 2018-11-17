@@ -1,5 +1,7 @@
 # Bianco Bazaar
 
+[Hacé clic acá](http://biancobazaar.rf.gd/welcome.php) para probar una demo.
+
 ![alt text](https://raw.githubusercontent.com/despediteerik/biancobazaar/master/img/pagina.png)
 
 ## Una página de compras, creada con PHP y Bootstrap.
